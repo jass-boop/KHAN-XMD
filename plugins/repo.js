@@ -12,15 +12,15 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `*Hello there KHAN-AI User! 👋🏻* 
+        let dec = `*Hello there KHAN-AM User! 👋🏻* 
 
-> Simple , Straight Forward But Loaded With Features 🎊, Meet KHAN-AI WhatsApp Bot.
+> Simple , Straight Forward But Loaded With Features 🎊, Meet KHAN-MD WhatsApp Bot.
 
 *Thanks for using KHAN-AI 🚩* 
 
 > Don't forget to frok the repo ⤵️
 
-https://github.com/JawadYTX/KHAN-AI`;
+https://github.com/JawadYTX/KHAN-XMD`;
 
         // Send image with caption
         await conn.sendMessage(from, { 
