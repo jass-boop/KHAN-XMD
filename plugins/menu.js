@@ -96,23 +96,40 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• Insta
 ┃◈┃• apk
 ┃◈┃• img
+┃◈┃• tt2
+┃◈┃• pins
+┃◈┃• apk2
+┃◈┃• fb2
+┃◈┃• pinterest 
 ┃◈┃• spotify
 ┃◈┃• play
 ┃◈┃• play2
 ┃◈┃• play3
-┃◈┃• tt2
+┃◈┃• play4
+┃◈┃• play5
+┃◈┃• play6
+┃◈┃• play7
+┃◈┃• play8
+┃◈┃• play9
+┃◈┃• play10
 ┃◈┃• audio
 ┃◈┃• video
 ┃◈┃• video2
+┃◈┃• video3
+┃◈┃• video4
+┃◈┃• video5
+┃◈┃• video6
+┃◈┃• video7
+┃◈┃• video8
+┃◈┃• video9
+┃◈┃• video10
 ┃◈┃• ytmp3
 ┃◈┃• ytmp4
 ┃◈┃• song
 ┃◈┃• darama
-┃◈┃• git
 ┃◈┃• gdrive
-┃◈┃• smovie
-┃◈┃• baiscope 
-┃◈┃• ginisilia 
+┃◈┃• ssweb
+┃◈┃• tiks
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -234,11 +251,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         let dec = `╭━━〔 *Fun Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
+┃◈┃• shapar
+┃◈┃• rate
 ┃◈┃• insult
-┃◈┃• pickup
+┃◈┃• hack
 ┃◈┃• ship
 ┃◈┃• character
-┃◈┃• hack
+┃◈┃• pickup 
 ┃◈┃• joke
 ┃◈┃• hrt
 ┃◈┃• hpy
@@ -298,11 +317,23 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `╭━━〔 *Other Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• vv
+┃◈┃• timenow
+┃◈┃• date
+┃◈┃• count
+┃◈┃• calculate
+┃◈┃• countx
+┃◈┃• flip
+┃◈┃• coinflip
+┃◈┃• rcolor
+┃◈┃• roll
+┃◈┃• fact
+┃◈┃• cpp
+┃◈┃• rw
 ┃◈┃• pair
 ┃◈┃• pair2
-┃◈┃• fact
+┃◈┃• pair3
 ┃◈┃• fancy
+┃◈┃• logo <text>
 ┃◈┃• define
 ┃◈┃• news
 ┃◈┃• movie
@@ -470,11 +501,23 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈╭─────────────·๏
 ┃◈┃• sticker
 ┃◈┃• sticker2
+┃◈┃• emojimix
 ┃◈┃• fancy
 ┃◈┃• take
 ┃◈┃• tomp3
 ┃◈┃• tts
 ┃◈┃• trt
+┃◈┃• base64
+┃◈┃• unbase64
+┃◈┃• binary
+┃◈┃• dbinary
+┃◈┃• tinyurl
+┃◈┃• urldecode
+┃◈┃• urlencode
+┃◈┃• url
+┃◈┃• repeat 
+┃◈┃• ask
+┃◈┃• readmore
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -588,11 +631,20 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         let dec = `╭━━〔 *Ai Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• ai
+┃◈┃• gpt3
+┃◈┃• gpt2
+┃◈┃• gptmini
 ┃◈┃• gpt
 ┃◈┃• meta
 ┃◈┃• blackbox
+┃◈┃• luma
+┃◈┃• dj 
+┃◈┃• khan
+┃◈┃• jawad
 ┃◈┃• gpt4
 ┃◈┃• bing
+┃◈┃• imagine 
+┃◈┃• imagine2
 ┃◈┃• copilot
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
