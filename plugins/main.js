@@ -35,22 +35,39 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• apk
 ┃◈┃• img
 ┃◈┃• tt2
-┃◈┃• git
+┃◈┃• pins
+┃◈┃• apk2
+┃◈┃• fb2
+┃◈┃• pinterest 
 ┃◈┃• spotify
 ┃◈┃• play
 ┃◈┃• play2
 ┃◈┃• play3
+┃◈┃• play4
+┃◈┃• play5
+┃◈┃• play6
+┃◈┃• play7
+┃◈┃• play8
+┃◈┃• play9
+┃◈┃• play10
 ┃◈┃• audio
 ┃◈┃• video
 ┃◈┃• video2
+┃◈┃• video3
+┃◈┃• video4
+┃◈┃• video5
+┃◈┃• video6
+┃◈┃• video7
+┃◈┃• video8
+┃◈┃• video9
+┃◈┃• video10
 ┃◈┃• ytmp3
 ┃◈┃• ytmp4
 ┃◈┃• song
 ┃◈┃• darama
 ┃◈┃• gdrive
-┃◈┃• smovie
-┃◈┃• baiscope 
-┃◈┃• ginisilia 
+┃◈┃• ssweb
+┃◈┃• tiks
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 ╭━━〔 *Group Menu* 〕━━┈⊷
@@ -116,6 +133,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰──────────────┈⊷
 ╭━━〔 *Fun Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
+┃◈┃• shapar
+┃◈┃• rate
 ┃◈┃• insult
 ┃◈┃• hack
 ┃◈┃• ship
@@ -144,21 +163,42 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈╭─────────────·๏
 ┃◈┃• sticker
 ┃◈┃• sticker2
+┃◈┃• emojimix
 ┃◈┃• fancy
 ┃◈┃• take
 ┃◈┃• tomp3
 ┃◈┃• tts
 ┃◈┃• trt
+┃◈┃• base64
+┃◈┃• unbase64
+┃◈┃• binary
+┃◈┃• dbinary
+┃◈┃• tinyurl
+┃◈┃• urldecode
+┃◈┃• urlencode
+┃◈┃• url
+┃◈┃• repeat 
+┃◈┃• ask
+┃◈┃• readmore
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 ╭━━〔 *Ai Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• ai
+┃◈┃• gpt3
+┃◈┃• gpt2
+┃◈┃• gptmini
 ┃◈┃• gpt
 ┃◈┃• meta
 ┃◈┃• blackbox
+┃◈┃• luma
+┃◈┃• dj 
+┃◈┃• khan
+┃◈┃• jawad
 ┃◈┃• gpt4
 ┃◈┃• bing
+┃◈┃• imagine 
+┃◈┃• imagine2
 ┃◈┃• copilot
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
@@ -212,11 +252,21 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰──────────────┈⊷
 ╭━━〔 *Other Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
+┃◈┃• timenow
+┃◈┃• date
+┃◈┃• count
+┃◈┃• calculate
+┃◈┃• countx
+┃◈┃• flip
+┃◈┃• coinflip
+┃◈┃• rcolor
+┃◈┃• roll
 ┃◈┃• fact
 ┃◈┃• cpp
 ┃◈┃• rw
 ┃◈┃• pair
 ┃◈┃• pair2
+┃◈┃• pair3
 ┃◈┃• fancy
 ┃◈┃• logo <text>
 ┃◈┃• define
