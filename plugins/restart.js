@@ -1,5 +1,5 @@
 const { cmd, commands } = require("../command");
-const { fetchJson, sleep } = require("../lib/functions");
+const { sleep } = require("../lib/functions");
 
 cmd({
     pattern: "restart",
@@ -25,36 +25,4 @@ async (conn, mek, m, {
         console.error(e);
         reply(`${e}`);
     }
-});
-
-//fix random commands
-
-cmd({
-  pattern: ".",
-  alias: [",", "?", "!", "*"],
-  desc: "Handles blank commands.",
-  category: "main",
-  filename: __filename
-}, async (conn, mek, m, { reply, sender }) => {
-  try {
-
-    return reply(
-      {
-        text: "*Example:* *. <text>*\n\nPlease provide input for the command.",
-        contextInfo: {
-          mentionedJid: [sender],
-          forwardingScore: 999,
-          isForwarded: true,
-          forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363354023106228@newsletter",
-            newsletterName: "JawadTechX",
-            serverMessageId: 143
-          }
-        }
-      }
-    );
-  } catch (error) {
-    console.error(error);
-    reply("An error occurred: " + error.message);
-  }
 });
